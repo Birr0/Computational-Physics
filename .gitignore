@@ -1,3 +1,5 @@
 ./NuclearDecay/*.png
 ./SchrodingerEquation/*.png
 ./SchrodingerEquation/*.pdf
+./SchrodingerEquation/.ipynb_checkpoints
+./NuclearDecay/.ipynb_checkpoints
